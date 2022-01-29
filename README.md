@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-### My name is Larysson Alves and I'm a FullStack Engineer
+### My name is Larysson Alves and I'm a Software Engineer
 
 ## Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlarysson&langs_count=8)](https://github.com/devlarysson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laryssonalves&langs_count=8)](https://github.com/laryssonalves/github-readme-stats)
 
 ## Contact:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/larysson-alves/) 
