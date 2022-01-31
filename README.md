@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-### My name is Larysson Alves and I'm a Software Engineer and that's my [CV](https://drive.google.com/drive/folders/1g2hxJUAb-9E9qs5WDVTwtHgc2AHmDnPz?usp=sharing)
+### My name is Larysson Alves and I'm a Software Engineer and that's my [resume](https://drive.google.com/drive/folders/1g2hxJUAb-9E9qs5WDVTwtHgc2AHmDnPz?usp=sharing)
 
 ## Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laryssonalves&langs_count=8)](https://github.com/laryssonalves/github-readme-stats)
