@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Skills
 - Python, JavaScript (ES6), TypeScript, Kotlin, Java, GraphQL, SQL, CSS/SCSS, HTML
 - Django, Nodejs, Nestjs, Express
-- PostgreSQL, Oracle, SQLite
+- PostgreSQL, Oracle, SQLite, MongoDB, Firebase Realtime Database
 - Git, Heroku, Digital Ocean, AWS, Docker, Firebase, Jenkins, Pipelines
 - Angular, React, Vue, JQuery
 - React Native, Android
