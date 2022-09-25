@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 ## Skills
 - Python, JavaScript (ES6), TypeScript, Kotlin, Java, GraphQL, SQL, CSS/SCSS, HTML
 - Django, Nodejs, Nestjs, Express
-- PostgreSQL, Oracle, SQLite, MongoDB, Firebase Realtime Database
-- Git, Heroku, Digital Ocean, AWS, Docker, Firebase, Jenkins, Pipelines
 - Angular, React, Vue, JQuery
 - React Native, Android
-- Jest, Karma, Jasmine
-- Hubspot, Mixpanel, GTM, GA
+- Jest, Karma, Jasmine, Pytest
+- PostgreSQL, Oracle, SQLite, MongoDB, Firebase Realtime Database
+- Git, Github, Bitbucket, Heroku, Digital Ocean, Docker, Jenkins, Pipelines
+- AWS Lambda/SQS, Firebase Cloud Functions
 
 ## Contact:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/larysson-alves/) 
