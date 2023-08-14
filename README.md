@@ -15,20 +15,30 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-### My name is Larysson Alves and I'm a Software Engineer and that's my [resume](https://drive.google.com/drive/folders/1g2hxJUAb-9E9qs5WDVTwtHgc2AHmDnPz?usp=sharing)
+### My name is Larysson Alves and I'm a Senior Software Engineer and that's my [resume](https://drive.google.com/file/d/1DNmR_Q7QICuBdCD_Xgurb9tbEJ7pxmqt/view?usp=drive_link)
 
 ## Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laryssonalves&langs_count=8)](https://github.com/laryssonalves/github-readme-stats)
 
 ## Skills
-- Python, JavaScript (ES6), TypeScript, Kotlin, Java, GraphQL, SQL, CSS/SCSS, HTML
-- Django, Nodejs, Nestjs, Express
-- Angular, React, Vue, JQuery
-- React Native, Android
-- Jest, Karma, Jasmine, Pytest
-- PostgreSQL, Oracle, SQLite, MongoDB, Firebase Realtime Database
-- Git, Github, Bitbucket, Heroku, Digital Ocean, Docker, Jenkins, Pipelines
-- AWS Lambda/SQS, Firebase Cloud Functions
+- Python, JavaScript, TypeScript,
+Kotlin, Java, GraphQL, SQL,
+CSS/SCSS, HTML5
+- Flask, Django, FastAPI, Celery,
+Nodejs, Nestjs, Express, Serverless
+Framework, Firebase Cloud
+Functions, AWS Lambda/SQS
+- React, Redux, Vue, Vuex, Angular,
+JQuery, React Native, Android
+Jest, Karma, Jasmine, Pytest, Unittest,
+Testing Library
+- PostgreSQL, Oracle, SQLite, Firebase,
+MongoDB, BigQuery, Redis,
+Elasticsearch
+- Git, Github, Bitbucket, Google Cloud
+Platform, Heroku, Digital Ocean,
+Docker, Jenkins, CircleCI, ArgoCD,
+Pipelines
 
 ## Contact:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/larysson-alves/) 
